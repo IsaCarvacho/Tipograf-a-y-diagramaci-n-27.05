@@ -20,3 +20,9 @@ Respecto a: Margen superior
 Incremento cada: 12 pt  
 Umbral de visualizado: 75%  
 
+Preferencias --> Interlinea: 14,4  
+__En Indesign se trabaja con columnas__  
+Maquetación (Estando en pagina maestra A) --> Margenes y columnas: 6 y elegir medianil  
+Maquetación --> Crear guías -> Número: 4  
+Ajustar documento --> Sangrado: 3  
+__Si diseño páginas enfrentadas, deben ser múltiplo de 4__, porque se trabaja en base a cuartillas
